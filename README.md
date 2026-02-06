@@ -193,32 +193,3 @@ _Coming soon_
 ## 🤖 Agents
 
 _Coming soon_
-
-## 📚 References and Additional Resources
-
-* [Spring AI Reference Documentation](https://docs.spring.io/spring-ai/reference/index.html)
-
-### Conferences
-
-* [Introducing Spring AI by Christian Tzolov and Mark Pollack (Spring I/O 2024)](https://www.youtube.com/watch?v=umKbaXsiCOY)
-* [Spring AI Is All You Need by Christian Tzolov (GOTO Amsterdam 2024)](https://www.youtube.com/watch?v=vuhMti8B5H0)
-* [Concerto for Java and AI - Building Production-Ready LLM Applications by Thomas Vitale (GOTO Copenhagen 2024)](https://www.youtube.com/watch?v=la4kc57F6jU)
-
-### Videos
-
-* [Building Intelligent Applications With Spring AI by Dan Vega (JetBrains Live Stream)](https://www.youtube.com/watch?v=x6KmUyPWy2Q)
-* [Spring AI Series by Dan Vega](https://www.youtube.com/playlist?list=PLZV0a2jwt22uoDm3LNDFvN6i2cAVU_HTH)
-* [Spring AI Series by Craig Walls](https://www.youtube.com/playlist?list=PLH5OU4wXVJc9aECkMUVPCi8g3pzs8pZ3E)
-* [Spring AI Series by Josh Long](https://www.youtube.com/playlist?list=PLgGXSWYM2FpMXvYb681axdH5JSLEPPyrz)
-
-### Demos
-
-* [Airline Customer Support (Marcus Hellberg)](https://github.com/marcushellberg/java-ai-playground/tree/spring-ai)
-* [Composer Assistant (Thomas Vitale)](https://github.com/ThomasVitale/concerto-for-java-and-ai)
-* [Document Assistant (Marcus Hellberg)](https://github.com/marcushellberg/docs-assistant)
-* [Flight Booking (Christian Tzolov)](https://github.com/tzolov/playground-flight-booking)
-
-### Workshops
-
-* [Spring AI - Zero to Hero (Adib Saikali, Christian Tzolov)](https://github.com/asaikali/spring-ai-zero-to-hero/tree/main)
-* [AI Applications with Java and Spring AI (Thomas Vitale)](https://github.com/ThomasVitale/java-ai-workshop)
